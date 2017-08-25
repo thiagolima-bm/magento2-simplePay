@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <payment>
+            <simplepay>
+                <active>1</active>
+                <title>Acaldeira SimplePay</title>
+                <order_status>pending_payment</order_status>
+                <payment_action>true</payment_action>
+                <model>Acaldeira\SimplePay\Model\Method</model>
+            </simplepay>
+        </payment>
+    </default>
+</config>
