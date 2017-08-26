@@ -5,8 +5,6 @@ Magento 2 Acaldeira SimplePay Module
 Description
 -----------
 This module is a skeleton for building a Magento 2 payment module. 
-
- Configuration: Stores > Configuration > Sales > Shipping Method
  
  ![Checkout payment](https://image.prntscr.com/image/RCt4PwPrRb2Vyo2tmVY51A.png "Checkout payment")
 
